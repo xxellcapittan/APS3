@@ -1,0 +1,3 @@
+pg_restore.exe –host localhost –port 5432 –username postgres –dbname ManagerEDoc c:\nome_arquivo_exportado.backup
+
+1. [em que c:\nome_arquivo_exportado.backup se refere ao caminho em que o arquivo de backup se encontra]
